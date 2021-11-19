@@ -54,7 +54,7 @@ export default function Word(props) {
   };
 
   const changeLanguage = (e) => {
-    props.setLanguage(selectLanguage);
+   inputRef.current.value!=="" && props.setLanguage(selectLanguage);
   };
 
   console.log(props.meaning[0].meanings);
