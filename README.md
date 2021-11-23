@@ -38,7 +38,11 @@ Colleagues say that the design is simple, clean and encapsulates a striking colo
 
 The following are some image snippets. The project is responsive.
 
+### Png
+
 ![image info](./src/images/dc1.png)
+
+### Gif
 
 ![image info](./src/images/Animation.gif)
 
