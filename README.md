@@ -7,7 +7,7 @@ The multilingual dictionary project was developed as part of a DCI API module ta
 This project was developed using React. [[This is a link to React](https://reactjs.org/)]
 
 ## Free Dictionary API
-This fetches data dynamically from the Free Dictionary API and draws upon two endpoints, namely the language and the word to be defined. [[This is a link to the Free Dictionary API ](https://dictionaryapi.dev/)]
+The dictionary fetches data dynamically from the Free Dictionary API and draws upon two endpoints, namely the language and the word to be defined. [[This is a link to the Free Dictionary API ](https://dictionaryapi.dev/)]
 
 ## Multilingual
 
